@@ -1,27 +1,27 @@
 
 #Human Activity Recognition Using Smartphones Dataset
 
-# This assignment is broken into the following steps
+## This assignment is broken into the following steps
 
-##Load libraries
+###Load libraries
 
-##Read metadata
+###Read metadata
 
-##Load in the training data
+###Load in the training data
 
-##Load in the test data
+###Load in the test data
 
-##Merge the data sets together
+###Merge the data sets together
 
-##Extract the neccessary data
+###Extract the neccessary data
 
-##Apply descriptove names to the data
+###Apply descriptove names to the data
 
-##Label the data set
+###Label the data set
 
-##Create a final Tidy data set
+###Create a final Tidy data set
 
-#Notes about the experiment are below:
+##Notes about the experiment are below:
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
@@ -68,4 +68,3 @@ Notes:
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
 
-For more information about this dataset contact: activityrecognition@smartlab.ws
